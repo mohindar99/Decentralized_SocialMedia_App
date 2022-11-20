@@ -1,4 +1,25 @@
-# Getting Started with Create React App
+# Introduction :
+
+The projects main agenda was designed to build a social media web3 application which consists of some user information who are present in the web3 space along with some minimal activities in the application like browsing and following the user.
+
+# Requirements :
+In this project we have used the following frameworks and protocols :
+
+- Lens (Web3 social graph on the Polygon blockchain)
+- Urql (querie language for api customization)
+- Ethers(Used for interaction of front-end application)
+- ReactJS(Front-end developing tool)
+- Chakra UI(Frame work used in front-end for better visualization)
+
+# Steps to Run the project :
+- Download the source code in rar format .
+- Extract the file and copy the specified path .
+- open the folder in the visual studio code .
+- In the terminal enter the command "npm install" for downloading all the dependencies of the project .
+- Run the project bu using the command "npm start"
+- The project final rendering is present in the files of the code .
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
